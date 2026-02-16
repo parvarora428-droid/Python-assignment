@@ -1,0 +1,16 @@
+#task 1 :perform basic mathematical operation
+# taking input from users
+num1=float(input("enter the first number"
+))
+num2=float(input("enter the second number"))
+
+#performing operations
+addition=num1+num2
+subtraction=num1-num2
+multiplication=num1*num2
+division=num1/num2
+
+print("The sum is",addition)
+print("The subtraction is",subtraction)
+print("The multiplication is",multiplication)
+print("The division is",division)
